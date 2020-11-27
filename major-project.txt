@@ -1,0 +1,24 @@
+major project
+--> groups --> same
+--> team lead --> same
+--> mentors --> same
+--> project topic --> same
+--> project topic --> sport club --> g1,g2,g3,g4,g5, grievence management system --> g6, g7, g8, g9
+
+front --> angular, css/sass, bootstrap, rwd, typescript --> seperate application( localhost:3300)
+back end --> java 8, spring rest, spring data jpa, spring boot, spring security, rest documentation(swagger), application monitoring, version (v1, v2, v3)
+database --> mysql
+
+code quality
+1. variable naming
+2. file naming
+3. white space
+4. proper indentation
+5. folder structure
+6. sample data --> keep it ready, different scenario
+7. @column
+8. sonarqube
+9. git hub
+10. documentation (SRS), create doc folder inside github
+11. linters
+12. peer review (get code reviewed from other group or mentor)
